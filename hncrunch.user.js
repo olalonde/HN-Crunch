@@ -5,7 +5,7 @@
 // @include        http://news.ycombinator.com/*
 // ==/UserScript==
 
-var backend_url = "http://dev.syskall.com/hn/hn.php";
+var backend_url = "http://your-domain.com/hn/hn.php";
 
 var anchors = document.getElementsByTagName('a');
 
